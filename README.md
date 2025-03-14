@@ -21,7 +21,7 @@ cd contact-management-system
 ## Run the Program:
 Ensure you have Python installed on your system. Then, run the program using the following command:
 
-python contact_management.py
+python3 contact_management.py
 
 ## Use the Program:
 
